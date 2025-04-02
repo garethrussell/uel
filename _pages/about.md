@@ -34,6 +34,18 @@ permalink: /about/
 </div>
 {% endfor %}
 
+{% if site.data.people %}
+
+<div class="jumbotron">
+  <h3>Students and Mentoring</h3>
+  <ul>
+    {% for student in site.data.people %}
+      <li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 {% if site.data.grants %}
 
 <div class="jumbotron">
@@ -53,18 +65,6 @@ permalink: /about/
   <ul>
     {% for award in site.data.awards %}
       <li>{{ award.name | replace: "-","&#8211;" }}</li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
-
-{% if site.data.people %}
-
-<div class="jumbotron">
-  <h3>Students and Mentoring</h3>
-  <ul>
-    {% for student in site.data.people %}
-      <li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
     {% endfor %}
   </ul>
 </div>

@@ -1,5 +1,24 @@
-- name: Example Alumni Name
+- name: Maggie Wi´sniewska
   photo: rock.jpg
-  duration: In the lab 2015-18
-  info: Now at Univeristy of X
-  email: exampleemail@gmail.com
+  duration: In the lab 2018-2023
+  info: Science Policy Advisor, PETA
+  email: maggie.wisniewska@gmail.com
+
+- name: Andrew Masintonio
+  photo: rock.jpg
+  duration: In the lab 2018-2023
+  info: Kutztown Univeristy
+  email: mashinto@kutztown.edu
+
+- name: Jessica Schnell
+  photo: rock.jpg
+  duration: In the lab 2018-2023
+  info: Director of Education at the Black Rock Forest Consortium
+  email: jschnell@blackrockforest.org
+
+- name: Tanya Lubansky
+  photo: rock.jpg
+  duration: In the lab 2018-2023
+  info: Director of Photo-Identification Research, Allied Whale, College of the Atlantic
+  email: tlubansky@coa.edu
+  

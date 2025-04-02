@@ -7,7 +7,7 @@ permalink: /
 
 ### Welcome!
 
-Testing.
+Testing 2.
 
 <div class="container">
 <div class="row">

@@ -34,7 +34,7 @@ permalink: /team/
 
 {% endfor %}
 
-### About me
+#### About me
 
 I am an ecologist working in the field of spatial ecology and animal movement.
 

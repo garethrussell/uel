@@ -52,12 +52,12 @@ In practice, our lab studies animal movements in relation to their environment, 
 <br/>
 
 <div class="container">
-<div class="row">
+<div class="row" id="wolfram">
 <h4>Test</h4>
 <center>
 <script>
 WolframNotebookEmbedder.embed(
-  'https://www.wolframcloud.com/obj/jessed/Published/basic-example.nb',document.getElementById ('container'),
+  'https://www.wolframcloud.com/obj/jessed/Published/basic-example.nb',document.getElementById('wolfram'),
 {allowInteract: true}
 );
 </script>

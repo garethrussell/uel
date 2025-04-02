@@ -1,7 +1,7 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
+- name: Dr. Gareth Russell
+  photo: headshot_bw.jpg
+  info: Associate Professor, New Jersey Institute of Technology
+  email: russell@njit.edu
   github: https://github.com/
   researchgate: https://www.researchgate.net/
   scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
@@ -9,9 +9,9 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(1996) Ph.D. Zoology, University of Tennessee",
+      "(1992) B.A. Zoology, Oxford University",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(1996) Ph.D. Zoology, University of Tennessee", "(1992) B.A. Zology, Oxford University"]

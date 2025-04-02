@@ -51,5 +51,22 @@ In practice, our lab studies animal movements in relation to their environment, 
 </div>
 <br/>
 
+<script crossorigin src="https://www.wolframcdn.com/notebook-embedder/0.1/wolfram-notebook-
+embedder js"></script>
+<div class="container">
+<div class="row">
+<center>
+< script>
+WolframNotebookEmbedder.embed("https://www.wolframcloud.com/obj/jessed/Published/basic-example.nb',document.getElementById ('container'),
+{allowInteract: true}
+; (
+</script>
+</center>
+</div>
+</div>
+<br/>
+
+
+
 </div>
 </div>

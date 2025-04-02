@@ -1,7 +1,7 @@
-- name: Example student name
-  photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
+- name: Grant Bowers
+  photo: grant_bowers.jpg
+  info: PhD Student, started Sep 2023
+  email: gb364@njit.com
   website: https://website.com
 
 - name: "This could be you !"

@@ -7,14 +7,13 @@ permalink: /
 
 ### Welcome!
 
-Testing 3.
+This is a draft of my new "Structural Ecology" lab website.
 
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/EtoshaElephantStudyWideMedRes.jpg" width="100%"/><br/>
+Elephant tracks in Etosha National Park, Namibia.
 </center>
 </div>
 </div>

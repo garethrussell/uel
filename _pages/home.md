@@ -26,10 +26,3 @@ Elephant tracks in Etosha National Park, Namibia.
 
 I am also a co-PI of the [Urban Ecology Lab](https://research.njit.edu/uel) at NJIT, an undergraduate-focused group conducting research on campus, in Newark, and elsewhere.
 
-## About me
-
-I am an ecologist working in the field of spatial ecology and animal movement.
-
-I received my undergraduate degree in zoology from Oxford University in 1992 and went on to earn my PhD from The University of Tennessee in 1996.
-
-After completing my doctoral studies I worked at the National Center for Ecological Analysis and Synthesis and Columbia University before joining the New Jersey Institute of Technology in 2005.

@@ -34,6 +34,12 @@ permalink: /team/
 
 {% endfor %}
 
+I am an ecologist working in the field of spatial ecology and animal movement.
+
+I received my undergraduate degree in zoology from Oxford University in 1992 and went on to earn my PhD from The University of Tennessee in 1996.
+
+After completing my doctoral studies I worked at the National Center for Ecological Analysis and Synthesis and Columbia University before joining the New Jersey Institute of Technology in 2005.
+
 ### Current Students and Postdocs
 
 <div class='jumbotron'>

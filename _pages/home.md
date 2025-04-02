@@ -7,7 +7,9 @@ permalink: /
 
 ### Welcome!
 
-This is a draft of my new "Structural Ecology" lab website.
+Structural Ecology is the study of how organisms interact with the 2- and 3-dimensional structure of their environment.
+In practice, this means trying to understand how animals respond to their surroundings as revealed by their movement, and the implication of this for their ability to survive and thrive on that landscape.
+Our lab studies metapopulation dynamics, individual and collective animal movements in complex landscapes, and other issues of spatial ecology and conservation. We collaborate closely with the Swarm Lab at NJIT.
 
 <div class="container">
 <div class="row">
@@ -21,7 +23,6 @@ Elephant tracks in Etosha National Park, Namibia.
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I am an ecologist working in the field of spatial ecology and animal movement.
+I received my undergraduate degree in zoology from Oxford University in 1992 and went on to earn my PhD from The University of Tennessee in 1996.
+After completing my doctoral studies I worked at the National Center for Ecological Analysis and Synthesis and Columbia University before joining the New Jersey Institute of Technology in 2005.

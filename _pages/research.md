@@ -53,6 +53,7 @@ In practice, our lab studies animal movements in relation to their environment, 
 
 <div class="container">
 <div class="row">
+<h4>Test</h4>
 <center>
 <script>
 WolframNotebookEmbedder.embed(
@@ -65,7 +66,7 @@ WolframNotebookEmbedder.embed(
 </div>
 <br/>
 
-
+<h4>Test over</h4>
 
 </div>
 </div>

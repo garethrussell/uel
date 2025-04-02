@@ -102,7 +102,7 @@ After completing my doctoral studies I worked at the National Center for Ecologi
 </div>
 <div class="col-sm-4 col-xs-12">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> Role: {{ member.role }} <br> Current: {{ member.current }}</i>
   <ul style="overflow: hidden">
   </ul>
 </div>

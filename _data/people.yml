@@ -1,24 +1,24 @@
-- name: Student Here
+- name: Grant Bowers
   location: Univesity Here
   degree: Ph.D. 
-  year: 2022
+  year: 2027
 
-- name: Student Here
-  location: Univesity Here
+- name: Maggie Wiśniewska
+  location: Director of Sciemce Policy, PETA
+  degree: Ph.D. 
+  year: 2023
+
+- name: Andrew Mashintonio
+  location: Kutztown Univertsity, PA
   degree: Ph.D. 
   year: 2021
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
+- name: Tanya Lubansky
+  location: Director of Photo-Identification Research, Allied Whale, College of the Atlantic
+  degree: Ph.D.
   year: 2020
 
-- name: Student Here
-  location: Univesity Here
-  degree: M.S.
-  year: 2020
-
-- name: Student Here
-  location: Univesity Here
-  degree: B.S.
-  year: 2020
+- name: Jessica Schnell
+  location: Director of Education at the Black Rock Forest Consortium
+  degree: Ph.D.
+  year: 2010

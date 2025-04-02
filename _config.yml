@@ -31,9 +31,9 @@ nav_pages:
   - name: talks
   - name: research
   - name: software
-  - name: team
+  - name: people
   - name: teaching
-  - name: blogs
+  - name: blog
 
 include:
   - .htaccess
@@ -62,7 +62,7 @@ plugins: ["jekyll/scholar"]
 
 scholar:
   last_name: Russell
-  first_name: [John]
+  first_name: [Gareth]
 
   style: citesty
   locale: en

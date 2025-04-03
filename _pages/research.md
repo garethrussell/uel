@@ -24,7 +24,7 @@ img{
 iframe {
   margin:0;
   padding:0;
-  width: 175px;
+  width: 100%;
   display: inline;
   vertical-align: middle;
 }

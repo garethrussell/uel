@@ -55,7 +55,7 @@ In practice, our lab studies animal movements in relation to their environment, 
 <div class="row" id="wolfram">
 <h4>Test</h4>
 <center>
-<iframe src="https://www.wolframcloud.com/obj/jessed/Published/basic-example.nb?_embed=iframe" width="600" height="800"></iframe>
+<iframe src="https://www.wolframcloud.com/obj/jessed/Published/basic-example.nb?_embed=iframe" width="100%" height="800"></iframe>
 </center>
 </div>
 </div>

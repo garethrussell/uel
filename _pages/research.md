@@ -32,8 +32,6 @@ iframe {
 
 ## Research
 
-<iframe src="https://www.wolframcloud.com/obj/5d15f96c-9a52-4ee1-86f6-eef01df86683" height="600px" width="100%" style="border:none;"></iframe>
-
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Research</h4>
@@ -53,13 +51,9 @@ In practice, our lab studies animal movements in relation to their environment, 
 </div>
 <br/>
 
-<h4>Test</h4>
-<center>
+<h4>iFrame test</h4>
 <iframe src="https://www.wolframcloud.com/obj/5d15f96c-9a52-4ee1-86f6-eef01df86683" height="600px" width="100%" style="border:none;"></iframe>
-</center>
 <br/>
-
-<h4>Test over again 6</h4>
 
 </div>
 </div>

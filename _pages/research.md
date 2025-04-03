@@ -52,7 +52,7 @@ In practice, our lab studies animal movements in relation to their environment, 
 <br/>
 
 <h4>iFrame test</h4>
-<iframe src="https://www.wolframcloud.com/obj/5d15f96c-9a52-4ee1-86f6-eef01df86683" height="300px" width="100%" style="border:none;"></iframe>
+<iframe src="https://www.wolframcloud.com/obj/040c3e94-e543-48b0-96a1-9429d842dd98?_embed=iframe" width="600" height="400"></iframe>
 <br/>
 
 </div>

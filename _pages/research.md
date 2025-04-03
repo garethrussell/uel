@@ -32,6 +32,8 @@ iframe {
 
 ## Research
 
+<iframe src="https://www.wolframcloud.com/obj/5d15f96c-9a52-4ee1-86f6-eef01df86683" height="600px" width="100%" style="border:none;"></iframe>
+
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Research</h4>

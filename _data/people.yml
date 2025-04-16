@@ -1,24 +1,39 @@
 - name: Grant Bowers
   location: NJIT
   degree: Ph.D. 
-  year: 2027
+  year: expected 2027
+
+- name: Rachel Deahl Kostelnik
+  location: NJIT
+  degree: MS 
+  year: 2024
+
+- name: Hanyu Wang
+  location: NJIT
+  degree: MS 
+  year: 2023
 
 - name: Maggie Wiśniewska
   location: NJIT
   degree: Ph.D. 
-  year: 2023
+  year: 2021
 
 - name: Andrew Mashintonio
   location: NJIT
   degree: Ph.D. 
-  year: 2021
+  year: 2015
 
 - name: Tanya Lubansky
   location: NJIT
   degree: Ph.D.
-  year: 2020
+  year: 2015
 
 - name: Jessica Schnell
   location: Rutgers/NJIT
   degree: Ph.D.
-  year: 2010
+  year: 2012
+
+- name: Jacqueline Lu
+  location: Columbia University
+  degree: MS 
+  year: 2005

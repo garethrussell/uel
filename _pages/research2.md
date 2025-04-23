@@ -8,10 +8,10 @@ permalink: /research/
 ## Research test
 
 <div class="jumbotron">
-{% for article in site.data.projects %}
-<b>{{ article.date }}</b>
+{% for project in site.data.projects %}
+<b>{{ project.date }}</b>
 
-{{ article.headline }}
+{{ article.desc }}
 {% endfor %}
 
 </div>

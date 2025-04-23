@@ -8,6 +8,15 @@ permalink: /research/
 ## Research test
 
 <div class="jumbotron">
+{% for article in site.data.projects %}
+<b>{{ article.date }}</b>
+
+{{ article.headline }}
+{% endfor %}
+
+</div>
+
+<div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Research</h4>
 

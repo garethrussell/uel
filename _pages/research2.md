@@ -9,9 +9,9 @@ permalink: /research/
 
 <div class="jumbotron">
 {% for project in site.data.projects %}
-<b>{{ project.date }}</b>
+<b>{{ project.name }}</b>
 
-{{ article.desc }}
+{{ project.desc }}
 {% endfor %}
 
 </div>

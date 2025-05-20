@@ -2,7 +2,7 @@
 title: Structural Ecology
 email: russell@njit.edu
 description: Academic webpage of Dr. Gareth Russell at NJIT
-baseurl: "/uel"
+baseurl: "/uel/"
 url: "https://garethrussell.github.io"
 
 # Google analytics ID: Uncomment and your own, if you like

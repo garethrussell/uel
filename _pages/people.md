@@ -32,7 +32,7 @@ permalink: /people/
 
 #### About me
 
-I am an ecologist working in the field of spatial ecology and animal movement.
+I am an ecologist working in the field of spatial ecology and animal movemen.
 
 I received my undergraduate degree in zoology from Oxford University in 1992 and went on to earn my PhD from The University of Tennessee in 1996.
 

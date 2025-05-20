@@ -1,0 +1,35 @@
+- name: Maggie Wiśniewska
+  photo: maggie.jpg
+  duration: 2018-2021
+  role: PhD student
+  current: Science Policy Advisor, PETA
+  email: maggie.wisniewska@gmail.com
+
+- name: Rachel Deahl
+  photo: rachel.jpg
+  duration: 2022-2024
+  role: MS student
+  current: Pursuing a PhD in Marine, Atmospheric, and Sustainability Sciences at Stony Brook University
+  email: racheldeahl13@gmail.com
+
+- name: Andrew Mashintonio
+  photo: andrew.jpg
+  duration: 2010-2015
+  role: PhD student
+  current: Assistant Professor, Kutztown Univeristy
+  email: mashinto@kutztown.edu
+
+- name: Tanya Lubansky
+  photo: tanya.jpg
+  duration: 2009-2015
+  role: PhD student
+  current: Director of Photo-Identification Research, Allied Whale, College of the Atlantic
+  email: tlubansky@coa.edu
+
+- name: Jessica Schnell
+  photo: jessica.jpg
+  duration: 2007-2012
+  role: PhD student
+  current: Director of Education at the Black Rock Forest Consortium
+  email: jschnell@blackrockforest.org
+  

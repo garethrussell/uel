@@ -1,0 +1,5 @@
+- name: Test project 1
+  desc: This is information about test project 1
+
+- name: Test project 2
+  desc: This is information about test project 2

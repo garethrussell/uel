@@ -1,9 +1,9 @@
 ---
-title: "Publications"
+title: "Departmental Publications"
 layout: gridlay
 sitemap: false
 permalink: /publications/
-years: [2016, 2017, 2018, 2019, 2020, 2021]
+years: [2020, 2021, 2022, 2023, 2024, 2025]
 ---
 
 <style>
@@ -24,11 +24,6 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 <div class="jumbotron">
 ### Book chapters
 {% bibliography --query @inbook %}
-</div>
-
-<div class="jumbotron">
-### Refereed conference proceedings
-{% bibliography --query @inproceedings %}
 </div>
 
 <div class="jumbotron">

@@ -37,7 +37,7 @@ permalink: /about/
 {% if site.data.people %}
 
 <div class="jumbotron">
-  <h3>Students and Mentoring</h3>
+  <h3>Students and Mentoring!</h3>
   <ul>
     {% for student in site.data.people %}
       <li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>

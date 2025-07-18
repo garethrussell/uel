@@ -7,7 +7,7 @@ permalink: /
 
 ## Welcome!
 
-Structural ecology is the study of how organisms interact with the 2- and 3-dimensional structure of their environment.
+TEST Structural ecology is the study of how organisms interact with the 2- and 3-dimensional structure of their environment.
 In practice, this means trying to understand how animals respond to their surroundings as revealed by their movement, and the implication of this for their ability to survive and thrive on that landscape.
 
 Our lab studies metapopulation dynamics, individual and collective animal movements in complex landscapes, and other issues of spatial ecology and conservation. We collaborate closely with the Swarm Lab at NJIT.

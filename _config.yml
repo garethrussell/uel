@@ -64,7 +64,7 @@ scholar:
   last_name: Russell
   first_name: [Gareth]
 
-  style: citesty
+  style: apa
   locale: en
 
   source: /assets/

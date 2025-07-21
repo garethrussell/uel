@@ -29,7 +29,7 @@ years: [2020, 2021, 2022, 2023, 2024, 2025]
 
 <div class="jumbotron">
 #### 2023
-{% bibliography --query @article*[year=2023] %}
+{% bibliography --query @article[year=2023] %}
 </div>
 
 <div class="jumbotron">

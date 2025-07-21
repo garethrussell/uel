@@ -1,4 +1,4 @@
----
+nce rpceedings, ---
 title: "Departmental Publications"
 layout: gridlay
 sitemap: false
@@ -47,7 +47,8 @@ years: [2020, 2021, 2022, 2023, 2024, 2025]
 {% bibliography --query @article[year=2020] %}
 </div>
 
+### Conference proceedings, book chapters, etc.
 <div class="jumbotron">
-### Book chapters, preprints and other miscellaneous
+### All since 2020
 {% bibliography --query !@article[year>=2020] %}
 </div>

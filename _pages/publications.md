@@ -16,9 +16,15 @@ years: [2020, 2021, 2022, 2023, 2024, 2025]
 }
 </style>
 
-<div class="jumbotron">
 ### Refereed journal articles
-{% bibliography --query @article[year>=2020] %}
+<div class="jumbotron">
+### 2025
+{% bibliography --query @article[year=2025] %}
+</div>
+
+<div class="jumbotron">
+### 2024
+{% bibliography --query @article[year=2024] %}
 </div>
 
 <div class="jumbotron">

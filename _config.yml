@@ -70,7 +70,7 @@ scholar:
   source: /assets/
   bibliography: ref.bib
   bibliography_template: bibtemplate
-  sort_by: last_name
+  sort_by: author
   order: ascending
 
   replace_strings: true

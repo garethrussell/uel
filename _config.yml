@@ -70,8 +70,8 @@ scholar:
   source: /assets/
   bibliography: ref.bib
   bibliography_template: bibtemplate
-  sort_by: year, month
-  order: descending
+  sort_by: last_name
+  order: ascending
 
   replace_strings: true
   join_strings: true

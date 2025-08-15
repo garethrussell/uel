@@ -17,6 +17,16 @@ years: [2020, 2021, 2022, 2023, 2024, 2025]
 </style>
 
 ### Recent refereed journal articles (by year)
+
+### Author key
+<p>
+    <span style="color:#AC0214;font-weight:bold;">Biology faculty.</span><br>
+    <span style="color:#AC0214;">Other NJIT faculty.</span><br>
+    <span style="color:#2E5984;font-weight:bold;">Biology graduate student.</span><br>
+    <span style="color:#2E5984;">Biology undergraduate student.</span><br>
+    <span style="color:#E05E2F;">Post-doc.</span>
+</p>
+
 <div class="jumbotron">
 #### 2025
 {% bibliography --query @article[year=2025] %}

@@ -18,13 +18,12 @@ years: [2020, 2021, 2022, 2023, 2024, 2025]
 
 ### Recent refereed journal articles (by year)
 
-### Author key
 <p>
-    <span style="color:#AC0214;font-weight:bold;">Biology faculty.</span><br>
+    <span style="color:#AC0214;font-weight:bold;">NJIT Biology faculty.</span><br>
     <span style="color:#AC0214;">Other NJIT faculty.</span><br>
-    <span style="color:#2E5984;font-weight:bold;">Biology graduate student.</span><br>
-    <span style="color:#2E5984;">Biology undergraduate student.</span><br>
-    <span style="color:#E05E2F;">Post-doc.</span>
+    <span style="color:#2E5984;font-weight:bold;">NJIT graduate student.</span><br>
+    <span style="color:#2E5984;">NJIT undergraduate student.</span><br>
+    <span style="color:#E05E2F;">NJIT post-doctoral researcher.</span>
 </p>
 
 <div class="jumbotron">

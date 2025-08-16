@@ -16,7 +16,7 @@ years: [2020, 2021, 2022, 2023, 2024, 2025]
 }
 </style>
 
-### Recent refereed journal articles (by year)
+### Refereed journal articles
 
 <p>
     <span style="color:#AC0214;font-weight:bold;">NJIT Biology faculty.</span><br>

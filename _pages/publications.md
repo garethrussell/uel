@@ -14,6 +14,10 @@ years: [2020, 2021, 2022, 2023, 2024, 2025]
     margin-top:10px;
     margin-bottom:30px;
 }
+    th, td {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 </style>
 
 ### Refereed journal articles

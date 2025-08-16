@@ -17,6 +17,8 @@ years: [2020, 2021, 2022, 2023, 2024, 2025]
 th, td {
     padding-left: 10px;
     padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
     text-align: center;
 }
 </style>

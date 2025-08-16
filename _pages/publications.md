@@ -27,14 +27,14 @@ th, td {
 
 <table>
   <tr>
-    <td><span style="color:#AC0214;font-weight:bold;">NJIT Biology faculty.</span></td>
-    <td><span style="color:#2E5984;font-weight:bold;">NJIT graduate student.</span></td>
-    <td><span style="color:#E05E2F;font-weight:bold;">NJIT post-doctoral researcher.</span><br></td>
+    <td><span style="color:#AC0214;font-weight:bold;">NJIT Biology faculty</span></td>
+    <td><span style="color:#2E5984;font-weight:bold;">NJIT graduate student</span></td>
+    <td><span style="color:#E05E2F;font-weight:bold;">NJIT post-doctoral researcher</span><br></td>
   </tr>
   <tr>
-    <td><span style="color:#AC0214;">Other NJIT faculty.</span></td>
-    <td><span style="color:#2E5984;">NJIT undergraduate student.</span></td>
-    <td><span style="color:#3C6530;">External student.</span></td>
+    <td><span style="color:#AC0214;">Other NJIT faculty</span></td>
+    <td><span style="color:#2E5984;">NJIT undergraduate student</span></td>
+    <td><span style="color:#3C6530;">External student</span></td>
   </tr>
   </table>
 

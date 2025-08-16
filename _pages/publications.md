@@ -32,7 +32,7 @@ th, td {
   <tr>
     <td><span style="color:#AC0214;">Other NJIT faculty.</span></td>
     <td><span style="color:#2E5984;">NJIT undergraduate student.</span></td>
-    <td><span style="color:#3F581C;">External student.</span></td>
+    <td><span style="color:#3C6530;">External student.</span></td>
   </tr>
   </table>
 

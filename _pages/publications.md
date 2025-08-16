@@ -18,14 +18,18 @@ years: [2020, 2021, 2022, 2023, 2024, 2025]
 
 ### Refereed journal articles
 
-<p>
-    <span style="color:#AC0214;font-weight:bold;">NJIT Biology faculty.</span><br>
-    <span style="color:#AC0214;">Other NJIT faculty.</span><br>
-    <span style="color:#2E5984;font-weight:bold;">NJIT graduate student.</span><br>
-    <span style="color:#2E5984;">NJIT undergraduate student.</span><br>
-    <span style="color:#E05E2F;font-weight:bold;">NJIT post-doctoral researcher.</span><br>
-    <span style="color:#3F581C;">External student.</span>
-</p>
+<table>
+  <tr>
+    <td><span style="color:#AC0214;font-weight:bold;">NJIT Biology faculty.</span></td>
+    <td><span style="color:#2E5984;font-weight:bold;">NJIT graduate student.</span></td>
+    <td><span style="color:#E05E2F;font-weight:bold;">NJIT post-doctoral researcher.</span><br></td>
+  </tr>
+  <tr>
+    <td><span style="color:#AC0214;">Other NJIT faculty.</span></td>
+    <td><span style="color:#2E5984;">NJIT undergraduate student.</span></td>
+    <td><span style="color:#3F581C;">External student.</span></td>
+  </tr>
+  </table>
 
 <div class="jumbotron">
 #### 2025

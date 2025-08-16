@@ -23,7 +23,7 @@ years: [2020, 2021, 2022, 2023, 2024, 2025]
     <span style="color:#AC0214;">Other NJIT faculty.</span><br>
     <span style="color:#2E5984;font-weight:bold;">NJIT graduate student.</span><br>
     <span style="color:#2E5984;">NJIT undergraduate student.</span><br>
-    <span style="color:#E05E2F;font-weight:bold;">NJIT post-doctoral researcher.</span>
+    <span style="color:#E05E2F;font-weight:bold;">NJIT post-doctoral researcher.</span><br>
     <span style="color:#3F581C;">External student.</span>
 </p>
 

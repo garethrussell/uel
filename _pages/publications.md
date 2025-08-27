@@ -23,8 +23,6 @@ th, td {
 }
 </style>
 
-### Refereed journal articles
-
 <table>
   <tr>
     <td><span style="color:#AC0214;font-weight:bold;">NJIT/Rutgers Biology faculty</span></td>
@@ -37,6 +35,8 @@ th, td {
     <td><span style="color:#528AAE;">External student</span></td>
   </tr>
   </table>
+
+### Refereed journal articles
 
 <div class="jumbotron">
 #### 2025

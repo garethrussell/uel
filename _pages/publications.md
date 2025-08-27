@@ -35,6 +35,7 @@ th, td {
     <td><span style="color:#528AAE;">External student</span></td>
   </tr>
   </table>
+<p>&nbsp;</p>
 
 ### Refereed journal articles
 

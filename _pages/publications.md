@@ -3,7 +3,7 @@ title: "Departmental Publications"
 layout: gridlay
 sitemap: false
 permalink: /publications/
-years: [2020, 2021, 2022, 2023, 2024, 2025]
+years: [2020, 2021, 2022, 2023, 2024, 2025, 2026]
 ---
 
 <style>
@@ -38,6 +38,11 @@ th, td {
 <p>&nbsp;</p>
 
 ### Refereed journal articles
+
+<div class="jumbotron">
+#### 2025
+{% bibliography --query @article[year=2026] %}
+</div>
 
 <div class="jumbotron">
 #### 2025

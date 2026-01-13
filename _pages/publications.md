@@ -40,7 +40,7 @@ th, td {
 ### Refereed journal articles
 
 <div class="jumbotron">
-#### 2025
+#### 2026
 {% bibliography --query @article[year=2026] %}
 </div>
 

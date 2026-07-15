@@ -41,7 +41,7 @@ th, td {
 
 <div class="jumbotron">
 #### Preprints
-{% bibliography --query @misc[year=2026] %}
+{% bibliography --query @unpublished[year=2026] %}
 </div>
 
 <div class="jumbotron">
@@ -82,5 +82,5 @@ th, td {
 ### Conference proceedings, book chapters, etc.
 <div class="jumbotron">
 ### All since 2020
-{% bibliography --query !@article[year>=2020] %}
+{% bibliography --query @*[type!=article && type!=unpublished && year>=2020] %}
 </div>

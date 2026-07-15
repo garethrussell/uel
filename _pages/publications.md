@@ -37,12 +37,13 @@ th, td {
   </table>
 <p>&nbsp;</p>
 
-### Refereed journal articles
+### Preprints
 
 <div class="jumbotron">
-#### Preprints
-{% bibliography --query @unpublished[year=2026] %}
+{% bibliography --query @unpublished[year>=2020] %}
 </div>
+
+### Refereed journal articles
 
 <div class="jumbotron">
 #### 2026

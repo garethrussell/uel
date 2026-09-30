@@ -7,12 +7,13 @@ permalink: /people/
 
 ### PhD Students
 
-{% for member in site.data.team_members %}
-
 <div class="jumbotron">
+
+  {% for member in site.data.team_members %}
+
   <div class="row">
     <div class="col-md-3">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%"/>
+      <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%">
     </div>
     <div class="col-md-9">
       <h4>{{ member.name }}</h4>
@@ -25,6 +26,7 @@ permalink: /people/
       {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a> {% endif %}
     </div>
   </div>
-</div>
 
 {% endfor %}
+
+</div>

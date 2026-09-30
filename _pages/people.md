@@ -17,6 +17,7 @@ permalink: /people/
 </div>
 <div class="col-sm-8 col-xs-12">
 <h4>{{ member.name }}</h4>
+<i>{{ member.degree }}</i><br>
 {{ member.info }}<br>
 {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}
 {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}

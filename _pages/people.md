@@ -12,10 +12,10 @@ permalink: /people/
 {% for member in site.data.team_members %}
 
 <div class="row">
-<div class="col-md-3">
+<div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%">
 </div>
-<div class="col-md-9">
+<div class="col-sm-8" "col-xs-12">
 <h4>{{ member.name }}</h4>
 <i>{{ member.info }}<br></i>
 {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}

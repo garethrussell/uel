@@ -11,10 +11,10 @@ permalink: /people/
 
 <div class='jumbotron'>
 
-<div class="col-sm-2">
-<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
+<div class="col-md-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%"/>
 </div>
-<div class="col-sm-4 col-xs-12">
+<div class="col-md-12">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br></i>
 {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}

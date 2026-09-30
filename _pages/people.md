@@ -15,7 +15,7 @@ permalink: /people/
 <div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%">
 </div>
-<div class="col-sm-8" "col-xs-12">
+<div class="col-sm-8 col-xs-12">
 <h4>{{ member.name }}</h4>
 {{ member.info }}<br>
 {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}

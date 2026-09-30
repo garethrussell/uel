@@ -5,8 +5,6 @@ sitemap: false
 permalink: /people/
 ---
 
-### PhD Students
-
 <div class="jumbotron">
 
 {% for member in site.data.team_members %}

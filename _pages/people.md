@@ -7,8 +7,7 @@ permalink: /people/
 
 <div class="jumbotron">
 
-{% assign members = site.data.team_members | sort %}
-{% for member in members %}
+{% for member in site.data.team_members %}
 
 <div class="row">
 <div class="col-sm-4">

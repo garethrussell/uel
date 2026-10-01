@@ -7,13 +7,8 @@ permalink: /people/
 
 <div class="jumbotron">
 
-{% assign sorted_members = site.data.team_members | sort: "lastname" %}
+{% for member in site.data.team_members %}
 
-{% comment %} 3. Loop through your newly ordered array to render them {% endcomment %}
-{% for member_hash in sorted_members %}
-
-{% assign member = member_hash[1] %} {% comment %} Extract the actual member data {% endcomment %}
-    
 <div class="row">
 <div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%">

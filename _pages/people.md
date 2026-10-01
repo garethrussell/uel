@@ -9,9 +9,6 @@ permalink: /people/
 
 {% assign members = site.data.team_members | sort %}
 {% for member in members %}
-{% comment %}
-{% for member in site.data.team_members %}
-{% endcomment %}
 
 <div class="row">
 <div class="col-sm-4">

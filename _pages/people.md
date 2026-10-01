@@ -7,14 +7,17 @@ permalink: /people/
 
 <div class="jumbotron">
 
-{% assign item_array = "" | split: "" %}
-{% for item in site.data.team_members %}
-{% assign item_array = item_array | push: item[1] %}
+{% comment %} 1. Convert the keyed dictionary into a flat array of values {% endcomment %}
+{% assign members_array = "" | split: "" %}
+{% for member in site.data.team_members %}
+  {% assign members_array = members_array | push: member[1] %}
 {% endfor %}
 
-{% assign sorted_items = item_array | sort: "lastname" %}
+{% comment %} 2. Sort the array based on YAML key 'last name') {% endcomment %}
+{% assign sorted_members = members_array | sort: "lastname" %}
 
-{% for member in sorted_items %}
+{% comment %} 3. Loop through your newly ordered array to render them {% endcomment %}
+{% for member in sorted_members %}
 
 <div class="row">
 <div class="col-sm-4">

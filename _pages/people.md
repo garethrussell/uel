@@ -7,7 +7,14 @@ permalink: /people/
 
 <div class="jumbotron">
 
-{% for member in site.data.team_members %}
+{% assign item_array = "" | split: "" %}
+{% for item in site.data.team_members %}
+{% assign item_array = item_array | push: item[1] %}
+{% endfor %}
+
+{% assign sorted_items = item_array | sort: "lastname" %}
+
+{% for member in sorted_items %}
 
 <div class="row">
 <div class="col-sm-4">
